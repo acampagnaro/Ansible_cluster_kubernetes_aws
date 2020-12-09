@@ -1,4 +1,4 @@
-# Ansible Kubernetes Cluster - IaasWeek
+# Ansible Kubernetes Cluster
 
 1) Edit hosts
 
